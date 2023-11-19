@@ -1,4 +1,4 @@
-// __tests__/app.test.js
+zapp.test.js
 import request from 'supertest';
 import app from '../server.js';
 
